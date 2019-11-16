@@ -14,6 +14,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "Hello,World!我是一个source to image的demo。";
+        return "Hello,World!";
     }
 }
