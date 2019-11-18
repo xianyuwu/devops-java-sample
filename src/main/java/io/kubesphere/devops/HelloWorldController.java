@@ -14,6 +14,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "Hello,World!";
+        return "Hello,World!这是一个全新的世界。";
     }
 }
